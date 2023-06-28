@@ -21,3 +21,4 @@
 - Basic knowledge of back-end development using node.js and express.js.
 - Working with databases using SQL.
 - Theoretical understanding of Artificial Intelligence (AI).
+ 
